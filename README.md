@@ -147,6 +147,8 @@
   
 4. supportReactNativeApis
 
+    Default : `true`
+
     React Native API has been implemented:
   
       - [Alert](https://reactnative.dev/docs/alert)
