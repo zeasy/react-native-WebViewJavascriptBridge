@@ -4,7 +4,7 @@
   The code logic comes from the `WebviewJavascriptBridge`. It is fully implemented by JS. In theory, it supports the platform supported by `react-native-webview`.
   
   - [x] iOS (Tested)
-  - [x] Android (Not tested)
+  - [x] Android (Tested)
   - [x] MacOS (Tested)
   - [x] Windows (Not tested)
 
@@ -190,7 +190,7 @@
     **Warning**
       
     Calling RN API in Web needs to called after the page is loaded, Example:
-    
+    (Occasionally, there will be uninitialized situations on Android, which need to be solved. It is recommended to call RN API with the `promised` safely method.)
     ```
     useEffect(() => {
       window.ReactNativeWebView.Alert.alert()
