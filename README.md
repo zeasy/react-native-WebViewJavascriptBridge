@@ -177,7 +177,7 @@
           }
         },{
           text : "Cancel",
-          type : "cancel",
+          style : "cancel",
           onPress : () => {
             console.log('cancel');
           }
