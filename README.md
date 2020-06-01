@@ -190,7 +190,9 @@
     **Warning**
       
     Calling RN API in Web needs to called after the page is loaded, Example:
+    
     (Occasionally, there will be uninitialized situations on Android, which need to be solved. It is recommended to call RN API with the `promised` safely method.)
+    
     ```
     useEffect(() => {
       window.ReactNativeWebView.Alert.alert()
