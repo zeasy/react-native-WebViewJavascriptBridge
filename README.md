@@ -147,6 +147,8 @@
   
 4. supportReactNativeApis
 
+    Default : `true`
+
     React Native API has been implemented:
   
       - [Alert](https://reactnative.dev/docs/alert)
@@ -178,7 +180,7 @@
           }
         },{
           text : "Cancel",
-          type : "cancel",
+          style : "cancel",
           onPress : () => {
             console.log('cancel');
           }
