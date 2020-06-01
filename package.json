@@ -1,7 +1,7 @@
 {
   "name": "react-native-webviewjavascriptbridge",
-  "version": "0.0.3",
-  "description": "WebviewJavascriptBridge For React Native. JS Only.",
+  "version": "0.0.4",
+  "description": "WebViewJavascriptBridge For React Native. Implemented on react-native-webview. JS Only. React Native API Supported.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

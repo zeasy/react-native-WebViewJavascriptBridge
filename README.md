@@ -159,6 +159,9 @@
       - [PixelRatio](https://reactnative.dev/docs/pixelratio)
       - [Share](https://reactnative.dev/docs/share)
       - [Vibration](https://reactnative.dev/docs/vibration)
+  
+    Compoment:
+      - [StatusBar](https://reactnative.dev/docs/statusbar) Constants & Static Method
     
     In addition:
    
