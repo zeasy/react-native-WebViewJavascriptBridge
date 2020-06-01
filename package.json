@@ -17,7 +17,7 @@
     "javascript",
     "bridge"
   ],
-  "dependencies": {
+  "peerDependencies": {
     "react-native-webview": "^10.2.1",
     "url-parse": "^1.4.7"
   },
