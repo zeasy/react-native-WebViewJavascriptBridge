@@ -105,7 +105,7 @@
 
       Message transfer protocol Scheme
       
-      Default:`https`
+      Default:`wvjbscheme` 使用https或http时，在安卓上无效
       
       Compatible with `WebViewJavaScriptBridge` project. It can be customized and needs to be modified synchronously with the web.
    
