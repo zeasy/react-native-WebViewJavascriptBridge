@@ -1,6 +1,6 @@
 {
   "name": "react-native-webviewjavascriptbridge",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "WebViewJavascriptBridge For React Native. Implemented on react-native-webview. JS Only. React Native API Supported.",
   "main": "index.js",
   "scripts": {
